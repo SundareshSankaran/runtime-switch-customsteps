@@ -13,7 +13,7 @@ Read the following blog(TBD) for more context.
 
 Refer the following video ([link](https://www.youtube.com/watch?v=DfaT0PcfLsw) here). A short summary of the steps to follow is also located [here](https://go.documentation.sas.com/doc/en/sasadmincdc/default/calcontentmig3x/n0djzpossyj6rrn1vvi1wfvp2qhp.htm?fromDefault=).
 
-  ![./img/transfer.png](https://www.youtube.com/watch?v=DfaT0PcfLsw)
+  [![Video](./img/transfer.png)](https://www.youtube.com/watch?v=DfaT0PcfLsw)
 
 
 ## Contact
