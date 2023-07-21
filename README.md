@@ -1,7 +1,7 @@
 # A run-time "switch" for SAS Studio Custom Steps: example
 A simple example of how to easily enable or disable the execution of a SAS Studio Custom Step during run-time.
 
-Read the following blog(TBD) for more context.
+Read the following [blog](https://communities.sas.com/t5/SAS-Communities-Library/Switch-on-switch-off-run-time-control-of-SAS-Studio-Custom-Steps/ta-p/885526) for more details.
 
 ## Import the example
 
