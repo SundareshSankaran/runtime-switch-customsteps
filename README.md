@@ -11,7 +11,9 @@ Read the following blog(TBD) for more context.
 
 ### Steps
 
-Refer the following video ([link](https://www.youtube.com/watch?v=DfaT0PcfLsw) here). A short summary of the steps to follow is also located [here](https://go.documentation.sas.com/doc/en/sasadmincdc/default/calcontentmig3x/n0djzpossyj6rrn1vvi1wfvp2qhp.htm?fromDefault=).
+1. Download the [transfer package](/Run-time%20Control%20Transfer%20Package.json) to your system.
+
+2. Import the transfer package into your Viya 4 environment.  Refer the following video ([link](https://www.youtube.com/watch?v=DfaT0PcfLsw) here). A short summary of the steps to follow is also located [here](https://go.documentation.sas.com/doc/en/sasadmincdc/default/calcontentmig3x/n0djzpossyj6rrn1vvi1wfvp2qhp.htm?fromDefault=).
 
   [![Video](./img/transfer.png)](https://www.youtube.com/watch?v=DfaT0PcfLsw)
 
